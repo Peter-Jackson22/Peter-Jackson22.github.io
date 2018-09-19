@@ -21,3 +21,8 @@ img {height: 50%;
 p.serif {
     font-family: "Times New Roman", Times, serif;
 }
+
+
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
