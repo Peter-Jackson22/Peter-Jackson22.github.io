@@ -8,10 +8,10 @@ body>div.container {
 
 
 img {height: 50%;
-  width: 50%;
-center {
+  width: 50%;}
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }}
+  }
